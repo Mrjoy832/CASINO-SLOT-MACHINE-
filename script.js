@@ -14,7 +14,7 @@ let values=[
 ]
 
 function getRandomValue(){
-    return values[Math.floor(Math.random()*1)]
+    return values[Math.floor(Math.random()*7)]
 }
 // setInterval(()=>{
 
