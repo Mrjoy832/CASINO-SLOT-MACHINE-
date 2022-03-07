@@ -10,7 +10,7 @@ let btnStop = document.getElementById('btnStop')//
 
 let myoutput = document.getElementById('myoutput')//
 let values=[
-    '😂',, '😎','😍','😁','😭','🤑','🥵'
+    '😂', '😎','😍','😁','😭','🤑','🥵'
 ]
 
 function getRandomValue(){
